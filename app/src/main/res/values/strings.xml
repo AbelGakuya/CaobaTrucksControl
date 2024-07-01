@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CaobaTrucksControl</string>
+    <string name="web_client_id">895990006160-2uo6bgf3463gorb0c69dbv2d6euvtq3b.apps.googleusercontent.com</string>
+    <string name="default_notification_channel_id" translatable="false">your_channel_id</string>
+
+</resources>

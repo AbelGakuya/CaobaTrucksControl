@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895990006160",
+    "project_id": "caobatrucks-d64cf",
+    "storage_bucket": "caobatrucks-d64cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895990006160:android:5649dd82e5dec8b063f315",
+        "android_client_info": {
+          "package_name": "com.example.caobatruckscontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895990006160-7e1baq6elrgu9ekhvlq0a85tdcus81go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caobatruckscontrol",
+            "certificate_hash": "6528d0c8b5c06a1696657cd91d9f4a2647021be4"
+          }
+        },
+        {
+          "client_id": "895990006160-2uo6bgf3463gorb0c69dbv2d6euvtq3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2MZYbLH9hNj6hIImuxfNguBImgjEDXq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895990006160-2uo6bgf3463gorb0c69dbv2d6euvtq3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
